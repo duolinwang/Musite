@@ -1,0 +1,7 @@
+#Global Properties
+#Thu Apr 05 22:07:56 CDT 2018
+version=1.0
+SVM_training=.\\3rd_party\\svm_learn.exe
+CDHit=.\\3rd_party\\cd_hit.exe
+SVM_classify=.\\3rd_party\\svm_classify.exe
+disorder_predictor_vsl2=.\\3rd_party\\VSL2.jar
