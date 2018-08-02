@@ -1,0 +1,2 @@
+# Musite
+Musite is a Java-based standalone application for predicting both general and kinase-specific protein phosphorylation sites. Musite 1.0 pre-trained prediction models for 6 eukaryotic organisms: Homo sapiens, Mus musculus, Drosophila melanogaster, Caenorhabditis elegans, Saccharomyces cerevisiae, and Arabidopsis thaliana. It is advisable to train your own prediction models from your specific training data, using the customized model training tool in Musite.
